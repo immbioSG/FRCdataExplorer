@@ -1,11 +1,25 @@
 site_name: Fibroblast Data Explorer - Ludewig Lab
+site_dir: public
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: indigo
+      accent: red
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: indigo
+      accent: red
 nav:
     - Home: index.md
     - Mouse: mouse.md
     - Human: human.md
     - Publications: pub.md
+plugins:
+  - search
+use_directory_urls: false
