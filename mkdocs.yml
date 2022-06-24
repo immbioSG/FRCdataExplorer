@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: Fibroblast Data Explorer - Ludewig Lab
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+nav:
+    - Home: index.md
+    - Mouse: mouse.md
+    - Human: human.md
+    - Publications: pub.md
