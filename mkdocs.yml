@@ -1,5 +1,4 @@
 site_name: Fibroblast Data Explorer - Ludewig Lab
-site_dir: public
 theme:
   name: material
   palette:
