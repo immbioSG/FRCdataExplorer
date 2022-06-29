@@ -1,0 +1,5 @@
+* **Description**:
+ CXCL13 is known to be important for B cell chemoattraction and follicle formation, however the molecular identity of B cell-interacting reticular cells remains ill-defined. Here we use the Cxcl13-Cre/TdTomato mouse model to genetically target and decipher the cellular composition of lymph node CXCL13-expressing reticular cells under steady-state and inflammatory conditions.
+* **Explore data**: [Data browser](http://213.167.225.152:3838/LN_GCreaction_DataBrowser/) 
+* **Cite**: Pikor, N.B., Mörbe, U., Lütge, M. et al. Remodeling of light and dark zone follicular dendritic cells governs germinal center responses. Nat Immunol 21, 649–659 (2020). [https://doi.org/10.1038/s41590-020-0672-y](https://doi.org/10.1038/s41590-020-0672-y)
+* **Rawdata**: [E-MTAB-8445](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-8445/)

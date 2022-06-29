@@ -1,28 +1,18 @@
-# Mouse scRNAseq Data
+## Mouse scRNAseq Data - overview
 
-## Secondary lymphoid organs
-
-### Fibroblastic reticular cells
+### Secondary lymphoid organs
 * Lymph node B cell interacting reticular cells
-* Lymph node fibroblastic reticular cells: LCMV and naive
-* Splenic white pulp fibroblastic reticular cells: WT and ltbr floxed
+* Lymph node fibroblastic reticular cells - LCMV and naive
+* Splenic white pulp fibroblastic reticular cells
 * Peyer's patch fibroblastic reticular cells
 * Cross organ B cell interacting reticular cells
 
-### Immune cells
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Other Tissue sites
+* Lung
+* Lamina propia
 
-# Human scRNAseq Data
+## Human scRNAseq Data - overview
 
-# Publications
-
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Secondary lymphoid organs
+* Tonsilar FRC
+* Lymph node B cell interacting reticular cells

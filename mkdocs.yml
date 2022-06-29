@@ -1,4 +1,4 @@
-site_name: Fibroblast Data Explorer - Ludewig Lab
+site_name: Fibroblast Data Explorer - Immunobiology Lab St.Gallen
 theme:
   name: material
   palette:
@@ -14,11 +14,23 @@ theme:
         name: Switch to light mode
       primary: indigo
       accent: red
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+  favicon: images/favicon.png
+  logo: images/favicon3.png
 nav:
     - Home: index.md
-    - Mouse: mouse.md
+    - Mouse: 
+        - Lymph node B cell interacting reticular cells: mouse/LNBRC.md
+        - Lymph node fibroblastic reticular cells - LCMV and naive: mouse/LNFRC.md
     - Human: human.md
-    - Publications: pub.md
+    - Contact: contact.md
 plugins:
   - search
 use_directory_urls: false
+markdown_extensions:
+  - attr_list
+extra_css:
+  - stylesheets/extra.css
