@@ -1,18 +1,20 @@
-## Mouse scRNAseq Data - overview
+## Single cell RNAseq - dataset summary
 
-### Secondary lymphoid organs
+### Mouse datasets
+
+#### Secondary lymphoid organs
 * Lymph node B cell interacting reticular cells
 * Lymph node fibroblastic reticular cells - LCMV and naive
 * Splenic white pulp fibroblastic reticular cells
 * Peyer's patch fibroblastic reticular cells
 * Cross organ B cell interacting reticular cells
 
-### Other Tissue sites
+#### Other Tissue sites
 * Lung
 * Lamina propia
 
-## Human scRNAseq Data - overview
+### Human datasets
 
-### Secondary lymphoid organs
+#### Secondary lymphoid organs
 * Tonsilar stromal cells
 * B cell interacting reticular cells - Tonsils and lymph nodes
