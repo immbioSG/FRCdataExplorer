@@ -25,7 +25,12 @@ nav:
     - Mouse: 
         - Lymph node B cell interacting reticular cells: mouse/LNBRC.md
         - Lymph node fibroblastic reticular cells - LCMV and naive: mouse/LNFRC.md
-    - Human: human.md
+        - Splenic white pulp fibroblastic reticular cells: mouse/SWPFRC.md
+        - Peyer's patch fibroblastic reticular cells: mouse/PPFRC.md
+        - Cross organ B cell interacting reticular cells: mouse/CrossSLO.md
+    - Human:
+        - Tonsilar stromal cells: human/Tonsil.md
+        - B cell interacting reticular cells - Tonsils and lymph nodes: human/CrossSLO.md
     - Contact: contact.md
 plugins:
   - search

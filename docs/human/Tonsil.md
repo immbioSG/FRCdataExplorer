@@ -1,0 +1,7 @@
+* **Description**:
+ Palatine tonsils are secondary lymphoid organs that are strategically positioned in the oropharynx to secure a first line of defense against oral pathogens. Specialized immune-interacting fibroblasts, generally termed fibroblastic reticular cells (FRC), underpin distinct microenvironments within lymphoid organs to compartmentalize and direct the efficient interaction and activation of immune cells. As a particular anatomical property, palatine tonsils harbor a reticular-shaped lymphoepithelium that generates an antigen sampling zone in the crypts. While the histological ultrastructure and the immune cell composition of human palatine tonsils has been elaborated in detail, the molecular identity of the diverse stromal cell compartments including FRC and the specialized lymphoepithelium remains largely unknown. Here, we have employed single cell transcriptomics and extensive flow cytometric analyses to unveil the molecular identity of tonsillar cells and to disentangle the heterogeneity of fibroblast and epithelial cell subsets in palatine tonsils. Our results reveal a remarkable conservation of stromal cell organization and molecularly-defined subsets in infant and adult human palatine tonsils.
+* **Explore all stromal cells**:
+* **Explore fibroblastic reticular cells**:
+* **Explore immune cells**:
+* **Cite**: 
+* **Rawdata**: [E-MTAB-11715](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11715/)

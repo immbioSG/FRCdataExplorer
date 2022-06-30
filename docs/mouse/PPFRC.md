@@ -1,0 +1,5 @@
+* **Description**:
+ Peyer`s patches (PP) are underpinned by a dense network of FRCs. To elaborate the subset composition and topological organization of PP FRCs, we employed well-characterized Ccl19-Cre and Col6a1-Cre  mouse models that permit FRC targeting in secondary lymphoid organs. To define PP FRC subsets and their relation to the observed FRC lineages, we isolated fibroblasts from Col6a1Eyfp and Ccl19Eyfp PPs and performed droplet-based single cell transcriptomics analysis. Taken together, the molecular definition of the PP FRC landscape reveals two FRC lineages furnishing distinct microenvironmental niches.
+* **Explore data**: 
+* **Cite**: Prados A, Onder L, Cheng HW, Mörbe U, Lütge M, Gil-Cruz C, Perez-Shibayama C, Koliaraki V, Ludewig B, Kollias G. Fibroblastic reticular cell lineage convergence in Peyer's patches governs intestinal immunity. Nat Immunol. 2021 Apr;22(4):510-519. [doi: 10.1038/s41590-021-00894-5](https://doi.org/10.1038/s41590-021-00894-5)
+* **Rawdata**: [E-MTAB-9162](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-9162/)

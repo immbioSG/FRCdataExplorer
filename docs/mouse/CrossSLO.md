@@ -1,0 +1,7 @@
+* **Description**:
+B cell-interacting reticular cells (BRC) form transcriptionally and topologically stable immune-interacting microenvironments that direct efficient humoral immunity. While several immune niche factors have been elucidated, the cues sustaining BRC function and topology across activation states remain unclear. Here, we employed single cell RNA-sequencing of stromal cells and immune cells from murine lymph nodes, Peyer’spatches and spleens to analyse local BRC-immune cell interactions and compare them across SLOs and species. Shared BRC subsets were imprinted by tissue-specific gene signatures, but also expressed functionally convergent niche factors that directed regionalized leukocyte composition. Local BRC-immune cell interactions sustained BRC subset identity via immune cell-provided maturation factors. Bidirectional signalling programs were independent of activation state and mirrored across murine and human tissues. Collectively, our data reveal a conserved set of feedforward BRC-immune cell circuits that sustain topologically-organized, functional niches across inflammatory states, lymphoid organs and species.
+* **Explore all BRCs**:
+* **Explore shared BRC subsets**:
+* **Explore immune cells**: 
+* **Cite**: 
+* **Rawdata**: [E-MTAB-11738](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11738/)

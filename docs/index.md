@@ -14,5 +14,5 @@
 ## Human scRNAseq Data - overview
 
 ### Secondary lymphoid organs
-* Tonsilar FRC
-* Lymph node B cell interacting reticular cells
+* Tonsilar stromal cells
+* B cell interacting reticular cells - Tonsils and lymph nodes
