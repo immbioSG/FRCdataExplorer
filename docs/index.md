@@ -7,7 +7,7 @@
 * Lymph node fibroblastic reticular cells - LCMV and naive
 * Splenic white pulp fibroblastic reticular cells
 * Peyer's patch fibroblastic reticular cells
-* Cross organ B cell interacting reticular cells
+* Conserved stromal–immune cell circuits secure B cell homeostasis and function
 
 #### Other Tissue sites
 * Lung
