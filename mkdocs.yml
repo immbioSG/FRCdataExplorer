@@ -23,11 +23,16 @@ theme:
 nav:
     - Home: index.md
     - Mouse: 
+      - Secondary lymphoid organs:
         - Remodeling of light and dark zone follicular dendritic cells governs germinal center responses: mouse/LNBRC.md
         - Type I interferon signaling in fibroblastic reticular cells prevents exhaustive activation of antiviral CD8+ T cells: mouse/LNFRC.md
         - Origin and differentiation trajectories of fibroblastic reticular cells in the splenic white pulp: mouse/SWPFRC.md
         - Fibroblastic reticular cell lineage convergence in Peyer’s patches governs intestinal immunity: mouse/PPFRC.md
         - Conserved stromal–immune cell circuits secure B cell homeostasis and function: mouse/CrossSLO.md
+      - Other tissue sites:
+        - Adenovirus vector vaccination reprograms pulmonary fibroblastic niches to support protective inflating memory CD8 + T cells: mouse/lungAdeno.md
+        - Intestinal fibroblastic reticular cell niches control innate lymphoid cell homeostasis and function: mouse/LPFRC.md
+        - Viral vector-mediated reprogramming of the fibroblastic tumor stroma sustains curative melanoma treatment: mouse/melStroma.md
     - Human:
         - PI16+ reticular cells in human palatine tonsils acti- vate T and B cells in distinct subepithelial niches: human/Tonsil.md
         - Conserved stromal–immune cell circuits secure B cell homeostasis and function: human/CrossSLO.md
