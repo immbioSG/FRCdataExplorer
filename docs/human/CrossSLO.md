@@ -1,6 +1,6 @@
 * **Abstract**:
  B cell-interacting reticular cells (BRC) form stable microenvironments that direct efficient humoral immunity with B cell priming and memory maintenance being orchestrated across lymphoid organs. However, a comprehensive understanding of systemic humoral immunity is hampered by the lack in knowledge of global BRC sustenance, function and major pathways controlling BRC-immune cell interactions. Here we dissected the BRC landscape and immune cell interactome in human and murine lymphoid organs. In addition to the major BRC subsets underpinning the follicle including follicular dendritic cells, Pi16+ reticular cells were present across organs and species. Immune cell-driven BRC maturation programs were found to govern the functional convergence of shared BRC subsets, overwriting tissue-specific gene signatures. Bidirectional signaling programs were independent of activation state and mirrored across murine and human tissues. Our data reveal conserved feedforward BRC-immune cell circuits that sustain functional BRC niches enforcing canonical programs to increase the efficacy of systemic humoral immunity.
-* **Explore B cell interacting reticular cells**:
-* **Explore immune cells**:
+* **Explore B cell interacting reticular cells**: [Data browser](http://213.167.225.152:3838/humanBRCbrowser/allBRC/) 
+* **Explore immune cells**: [Data browser](http://213.167.225.152:3838/humanBRCbrowser/immCells/) 
 * **Cite**: 
 * **Rawdata**: [E-MTAB-11715](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11715/) and [E-MTAB-11710](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11710/)
