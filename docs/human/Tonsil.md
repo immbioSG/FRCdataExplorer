@@ -1,7 +1,7 @@
 * **Abstract**:
  Fibroblastic reticular cells (FRCs) direct the interaction and activation of immune cells in discrete microenvironments of lymphoid organs. Despite their important role in steering innate and adaptive immunity, the ageing and inflammation-associated changes in the molecular identity and functional properties of human FRCs have remained largely unknown. Here, we show that human tonsillar FRCs undergo dynamic reprogramming during life and respond vigorously to inflammatory perturbation in comparison to other stromal cell types. The PI16-expressing reticular cell (PI16+ RC) subset of adult tonsils exhibited the strongest inflammation-associated structural remodeling. Interactome analysis revealed that distinct molecular pathways control the direct interaction between PI16+ RCs and immune cells leading to the formation of subepithelial niches to promote T and B cell activation. Taken together, the topological and molecular definition of the human tonsillar stromal cell landscape reveals PI16+ RCs as specialized FRC niche at the core of mucosal immune responses in the oropharynx.
-* **Explore all stromal cells**:
-* **Explore fibroblastic reticular cells**:
-* **Explore immune cells**:
+* **Explore all stromal cells**: [Data browser](http://213.167.225.152:3838/humanTonsil/allStroma/) 
+* **Explore fibroblastic reticular cells**: [Data browser](http://213.167.225.152:3838/humanTonsil/allFRC/) 
+* **Explore immune cells**: [Data browser](http://213.167.225.152:3838/humanTonsil/immCells/) 
 * **Cite**: 
 * **Rawdata**: [E-MTAB-11715](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11715/)
