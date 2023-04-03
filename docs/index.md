@@ -15,5 +15,5 @@
 ## Human datasets
 
 #### Secondary lymphoid organs
-* PI16+ reticular cells in human palatine tonsils activate T and B cells in distinct subepithelial niches.
+* PI16+ reticular cells in human palatine tonsils govern T cell activity in distinct subepithelial niches.
 * Conserved stromal–immune cell circuits secure B cell homeostasis and function.
