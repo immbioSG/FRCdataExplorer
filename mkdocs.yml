@@ -34,7 +34,7 @@ nav:
         - Intestinal fibroblastic reticular cell niches control innate lymphoid cell homeostasis and function: mouse/LPFRC.md
         - Viral vector-mediated reprogramming of the fibroblastic tumor stroma sustains curative melanoma treatment: mouse/melStroma.md
     - Human:
-        - PI16+ reticular cells in human palatine tonsils activate T and B cells in distinct subepithelial niches: human/Tonsil.md
+        - PI16+ reticular cells in human palatine tonsils govern T cell activity in distinct subepithelial niches: human/Tonsil.md
         - Conserved stromal–immune cell circuits secure B cell homeostasis and function: human/CrossSLO.md
     - Contact: contact.md
 plugins:
