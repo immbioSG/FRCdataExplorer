@@ -3,5 +3,5 @@ Fibroblastic reticular cells (FRCs) direct the interaction and activation of imm
 * **Explore all stromal cells**: [Data browser](http://213.167.225.152:3838/humanTonsil/allStroma/) 
 * **Explore fibroblastic reticular cells**: [Data browser](http://213.167.225.152:3838/humanTonsil/allFRC/) 
 * **Explore immune cells**: [Data browser](http://213.167.225.152:3838/humanTonsil/immCells/) 
-* **Cite**: 
+* **Cite**: De Martin A, Stanossek Y, Lütge M, Cadosch N, Onder L, Cheng HW, Brandstadter J, Maillard Y, Stoeckli SJ, Pikor NB, Ludewig B. PI16+ reticular cells in human palatine tonsils govern T cell activity in distinct subepithelial niches. Nat Immunol. 2023. [doi: 10.1038/s41590-023-01502-4](https://doi.org/10.1038/s41590-023-01502-4)
 * **Rawdata**: [E-MTAB-11715](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11715/)

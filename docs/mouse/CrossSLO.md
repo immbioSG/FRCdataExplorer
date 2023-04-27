@@ -3,5 +3,5 @@ B cell-interacting reticular cells (BRC) form stable microenvironments that dire
 * **Explore all BRCs**: [Data browser](http://213.167.225.152:3838/CrossSLOmurineBRCBrowser/allBRC/) 
 * **Explore shared BRC subsets**: [Data browser](http://213.167.225.152:3838/CrossSLOmurineBRCBrowser/folBRC/) 
 * **Explore immune cells**: [Data browser](http://213.167.225.152:3838/CrossSLOmurineBRCBrowser/immCells/) 
-* **Cite**: 
+* **Cite**: Lütge M, De Martin A, Gil-Cruz C, Perez-Shibayama C, Stanossek Y, Onder L, Cheng HW, Kurz L, Cadosch N, Soneson C, Robinson MD, Stoeckli SJ, Ludewig B, Pikor NB. Conserved stromal-immune cell circuits secure B cell homeostasis and function. Nat Immunol. 2023. [doi: 10.1038/s41590-023-01503-3](https://doi.org/10.1038/s41590-023-01503-3)
 * **Rawdata**: [E-MTAB-11738](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11738/)

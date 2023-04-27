@@ -5,7 +5,7 @@
 * Type I interferon signaling in fibroblastic reticular cells prevents exhaustive activation of antiviral CD8+ T cells. [doi: 10.1126/sciimmunol.abb7066](https://doi.org/10.1126/sciimmunol.abb7066)
 * Origin and differentiation trajectories of fibroblastic reticular cells in the splenic white pulp. [doi: 10.1038/s41467-019-09728-3](https://doi.org/10.1038/s41467-019-09728-3)
 * Fibroblastic reticular cell lineage convergence in Peyer’s patches governs intestinal immunity. [doi: 10.1038/s41590-021-00894-5](https://doi.org/10.1038/s41590-021-00894-5)
-* Conserved stromal–immune cell circuits secure B cell homeostasis and function.
+* Conserved stromal–immune cell circuits secure B cell homeostasis and function. [doi: 10.1038/s41590-023-01503-3](https://doi.org/10.1038/s41590-023-01503-3)
 
 #### Other tissue sites
 * Adenovirus vector vaccination reprograms pulmonary fibroblastic niches to support protective inflating memory CD8 + T cells. [doi: 10.1038/s41590-021-00969-3](https://doi.org/10.1038/s41590-021-00969-3)
@@ -15,5 +15,5 @@
 ## Human datasets
 
 #### Secondary lymphoid organs
-* PI16+ reticular cells in human palatine tonsils govern T cell activity in distinct subepithelial niches.
-* Conserved stromal–immune cell circuits secure B cell homeostasis and function.
+* PI16+ reticular cells in human palatine tonsils govern T cell activity in distinct subepithelial niches. [doi: 10.1038/s41590-023-01502-4](https://doi.org/10.1038/s41590-023-01502-4)
+* Conserved stromal–immune cell circuits secure B cell homeostasis and function. [doi: 10.1038/s41590-023-01503-3](https://doi.org/10.1038/s41590-023-01503-3)
