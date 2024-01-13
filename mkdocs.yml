@@ -37,7 +37,6 @@ nav:
     - Human:
         - PI16+ reticular cells in human palatine tonsils govern T cell activity in distinct subepithelial niches: human/Tonsil.md
         - Conserved stromal–immune cell circuits secure B cell homeostasis and function: human/CrossSLO.md
-    - Other tissue sites:
         - Bone morphogenic protein-4 availability in the cardiac microenvironment controls myocardial inflammation and fibrosis: human/humanMyoc.md
     - Contact: contact.md
 plugins:
